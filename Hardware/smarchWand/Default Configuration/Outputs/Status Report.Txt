@@ -1,0 +1,16 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:20:06 PM On 3/12/2021
+
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [smarchWand.CSPcbDoc]
+   Generated File[smarchWand.TXT]
+   Generated File[smarchWand.LDP]
+   Generated File[smarchWand.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:20:06 PM On 3/12/2021

@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: smarchWand.CSPcbDoc   3/12/2021  10:20:06 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : smarchWand.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        12mil (0.3048mm)         Round          60               4.81 Inch (122.22 mm)
+T2        15mil (0.381mm)          Round          1                0.00 Inch (0.00 mm)
+T3        40.2mil (1.02108mm)      Round          4                1.78 Inch (45.29 mm)
+T4        39mil (0.9906mm)         Round          3         NPTH   0.28 Inch (7.21 mm)
+---------------------------------------------------------------------------
+Totals                                            68               6.88 Inch (174.73 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
